@@ -3983,8 +3983,12 @@ input, select, textarea {
 	margin-top: -95px;
 }
 
+.saco {
+	margin-top: -50px;
+}
+
 .saco img {
-	width: 80%;
+	width: 90%;
 	margin-left: 30px;
 }
 
